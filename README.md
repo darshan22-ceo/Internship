@@ -1,1 +1,1 @@
-This is the smal form which i have created for practice 
+This is the small form which i have created for practice 
